@@ -10,7 +10,7 @@ const data = {
             brand:'El muerto',
             rating:4.5,
             numReviews:10,
-            description:'Producto buenardo',
+            description:'Acá iría la descripción',
         },
         {
             _id:'2',
@@ -22,7 +22,7 @@ const data = {
             brand:'Corona',
             rating:4.0,
             numReviews:15,
-            description:'Producto aún más buenardo',
+            description:'Acá iría la descripción 02',
         },
         {
             _id:'3',
@@ -34,7 +34,7 @@ const data = {
             brand:'Ron Medellín',
             rating:3.5,
             numReviews:8,
-            description:'Medio buenardo',
+            description:'Acá iría la descripción 03',
         },
         {
             _id:'4',
@@ -46,7 +46,7 @@ const data = {
             brand:'El muerto',
             rating:4.5,
             numReviews:10,
-            description:'Producto buenardo',
+            description:'Acá iría la descripción 04',
         },
         {
             _id:'5',
@@ -58,7 +58,7 @@ const data = {
             brand:'El muerto',
             rating:4.5,
             numReviews:10,
-            description:'Producto buenardo',
+            description:'Acá iría la descripción 05',
         },
         {
             _id:'6',
@@ -70,7 +70,7 @@ const data = {
             brand:'El muerto',
             rating:4.5,
             numReviews:10,
-            description:'Producto buenardo',
+            description:'Acá iría la descripción 06',
         },
     ],
 };
